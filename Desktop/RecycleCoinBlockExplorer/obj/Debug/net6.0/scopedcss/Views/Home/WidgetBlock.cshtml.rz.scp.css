@@ -1,0 +1,53 @@
+.dateTx[b-2784ve3q05] {
+    font-size: 0.70em;
+    white-space: nowrap;
+}
+
+.bk[b-2784ve3q05] {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.amount[b-2784ve3q05] {
+    padding: 5px;
+    font-size: 0.70em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.viewall[b-2784ve3q05] {
+    font-size: 0.8em;
+}
+
+.heightBlock[b-2784ve3q05] {
+    font-size: 0.9em;
+}
+
+.addrsLabel[b-2784ve3q05] {
+    font-size: 0.7em;
+    color: gray;
+}
+
+.numTnx[b-2784ve3q05] {
+    font-size: 0.7em;
+}
+
+.lblTx[b-2784ve3q05] {
+    font-size: 0.7em;
+}
+
+.address[b-2784ve3q05] {
+    font-size: 0.9em;
+}
+
+.subTitle[b-2784ve3q05] {
+    color: #454545;
+}
+
+.divRow[b-2784ve3q05] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}

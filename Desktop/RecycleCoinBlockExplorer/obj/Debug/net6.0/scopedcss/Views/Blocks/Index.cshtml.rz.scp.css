@@ -1,0 +1,19 @@
+.rowDiv[b-5tx67eng5s] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.value[b-5tx67eng5s] {
+    font-size: 0.95em;
+}
+
+.title[b-5tx67eng5s] {
+    font-size: 0.8em;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+.valueWithLink[b-5tx67eng5s] {
+    font-size: 0.95em;
+}

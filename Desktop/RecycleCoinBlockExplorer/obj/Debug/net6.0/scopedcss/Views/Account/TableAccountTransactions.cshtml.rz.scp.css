@@ -1,0 +1,56 @@
+.dateTx[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.amount[b-1uhpd7pgdi] {
+    padding: 5px;
+    font-size: 0.8em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.tableHeader[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.hashTx[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+}
+
+.addrsLabel[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+}
+
+.addrsInTable[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-1uhpd7pgdi] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.subTitle[b-1uhpd7pgdi] {
+    margin-left: 0.8em;
+}
+
+.tableTitle[b-1uhpd7pgdi] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.divRow[b-1uhpd7pgdi] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+}

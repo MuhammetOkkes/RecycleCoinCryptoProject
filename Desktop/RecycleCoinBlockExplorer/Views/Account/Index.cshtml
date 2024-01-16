@@ -1,0 +1,62 @@
+﻿@using RecycleCoin.Grpc;
+@{
+	ViewData["Title"] = "Hesap";
+	Hesap hesap = ViewBag.Hesap;
+	var onaylanmamisBakiye = ViewBag.OnaylanmamisBakiye;
+}
+@{
+}
+<main id="main" class="main">
+	<div class="pagetitle">
+		@if (Program.SunucuDurum() && hesap != null)
+		{
+			<h5>Adres <span class="text-break title">@hesap.Adres<CopyText msg="Copy address to clipboard" text=@hesap.Adres /></span></h5>
+		}
+	</div>
+
+	<section class="section">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="card">
+					<div class="card-header">
+						Genel Bakış
+					</div>
+					<div class="card-body">
+						@if (Program.SunucuDurum())
+						{
+							@if (hesap != null)
+							{
+								<div class="row rowDiv">
+									<div class="col-sm-2">Bakiye </div>
+									<div class="col-sm-9 value"><strong>@hesap.Bakiye.ToString("C6")</strong> RC</div>
+								</div>
+								<div class="row rowDiv">
+									<div class="col-sm-2">Onaylanmamış Bakiye </div>
+									<div class="col-sm-9 value"><strong>@onaylanmamisBakiye.ToString("C6")</strong> RC</div>
+								</div>
+							}
+							else
+							{
+								<div class="text-center"><p>Hesap Bilgisi Alınamadı! </p></div>
+							}
+						}
+						else
+						{
+							<div class="text-center"><p>Sunucuya erişilemiyor! </p></div>
+						}
+					</div>
+				</div>
+
+				<br />
+				<div class="card">
+					<div class="card-body">
+						<div class="card-title" />
+						@Html.Partial("TableAccountBlocks")
+						@Html.Partial("TableAccountTransactions")
+						@Html.Partial("TableAccountPendingTransactions")
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+</main>

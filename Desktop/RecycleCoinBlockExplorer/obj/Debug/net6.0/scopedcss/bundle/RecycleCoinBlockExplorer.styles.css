@@ -1,0 +1,844 @@
+/* _content/RecycleCoinBlockExplorer/Views/Accounts/TableAccounts.cshtml.rz.scp.css */
+.validatorLabel[b-l7uwx6a989] {
+    font-size: 0.75em;
+}
+
+.validator[b-l7uwx6a989] {
+    font-size: 0.9em;
+}
+
+.numTnx[b-l7uwx6a989] {
+    font-size: 0.95em;
+    white-space: nowrap;
+}
+
+.numTxInTable[b-l7uwx6a989] {
+    font-size: 0.85em;
+    white-space: nowrap;
+}
+
+.lblTx[b-l7uwx6a989] {
+    font-size: 0.8em;
+}
+
+
+.dateTx[b-l7uwx6a989] {
+    font-size: 0.7em;
+    white-space: nowrap;
+}
+
+
+.heightBlock[b-l7uwx6a989] {
+    font-size: 0.85em;
+}
+
+.bk[b-l7uwx6a989] {
+    text-align: left;
+    width: 30px;
+    height: 30px;
+}
+
+.amount[b-l7uwx6a989] {
+    padding: 5px;
+    font-size: 0.75em;
+    font-weight: bold;
+    width: 100%;
+    text-align: end;
+    background-color: #eee;
+}
+
+.subTitle[b-l7uwx6a989] {
+    color: #454545;
+}
+
+
+.tableTitle[b-l7uwx6a989] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+    white-space: nowrap;
+}
+
+.divRow[b-l7uwx6a989] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-l7uwx6a989] {
+    font-size: 0.8em;
+}
+
+.addrsInTable[b-l7uwx6a989] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-l7uwx6a989] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.dateInTable[b-l7uwx6a989] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.tableHeader[b-l7uwx6a989] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Account/Index.cshtml.rz.scp.css */
+.rowDiv[b-gssonl1dyh] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.value[b-gssonl1dyh] {
+    color: grey;
+    font-size: 0.95em;
+}
+
+.title[b-gssonl1dyh] {
+    font-size: 0.7em;
+}
+
+.valueWithLink[b-gssonl1dyh] {
+    font-size: 0.95em;
+}
+
+.address[b-gssonl1dyh] {
+    color: gray;
+    font-size: 0.9em;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Account/TableAccountBlocks.cshtml.rz.scp.css */
+.dateTx[b-y1vho3zckf] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.amount[b-y1vho3zckf] {
+    padding: 5px;
+    font-size: 0.8em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.tableHeader[b-y1vho3zckf] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.hashTx[b-y1vho3zckf] {
+    font-size: 0.8em;
+}
+
+.addrsLabel[b-y1vho3zckf] {
+    font-size: 0.8em;
+}
+
+.addrsInTable[b-y1vho3zckf] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-y1vho3zckf] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.subTitle[b-y1vho3zckf] {
+    margin-left: 0.8em;
+}
+
+.tableTitle[b-y1vho3zckf] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.divRow[b-y1vho3zckf] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-y1vho3zckf] {
+    font-size: 0.8em;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Account/TableAccountPendingTransactions.cshtml.rz.scp.css */
+.dateTx[b-59a1mtwojg] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.amount[b-59a1mtwojg] {
+    padding: 5px;
+    font-size: 0.8em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.tableHeader[b-59a1mtwojg] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.hashTx[b-59a1mtwojg] {
+    font-size: 0.8em;
+}
+
+.addrsLabel[b-59a1mtwojg] {
+    font-size: 0.8em;
+}
+
+.addrsInTable[b-59a1mtwojg] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-59a1mtwojg] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.subTitle[b-59a1mtwojg] {
+    margin-left: 0.8em;
+}
+
+.tableTitle[b-59a1mtwojg] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.divRow[b-59a1mtwojg] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-59a1mtwojg] {
+    font-size: 0.8em;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Account/TableAccountTransactions.cshtml.rz.scp.css */
+.dateTx[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.amount[b-1uhpd7pgdi] {
+    padding: 5px;
+    font-size: 0.8em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.tableHeader[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.hashTx[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+}
+
+.addrsLabel[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+}
+
+.addrsInTable[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-1uhpd7pgdi] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.subTitle[b-1uhpd7pgdi] {
+    margin-left: 0.8em;
+}
+
+.tableTitle[b-1uhpd7pgdi] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.divRow[b-1uhpd7pgdi] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-1uhpd7pgdi] {
+    font-size: 0.8em;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Blocks/Block.cshtml.rz.scp.css */
+.rowDiv[b-yhaw6yi3ra] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.value[b-yhaw6yi3ra] {
+    font-size: 0.95em;
+}
+
+.title[b-yhaw6yi3ra] {
+    font-size: 0.8em;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+.valueWithLink[b-yhaw6yi3ra] {
+    font-size: 0.95em;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Blocks/Index.cshtml.rz.scp.css */
+.rowDiv[b-5tx67eng5s] {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.value[b-5tx67eng5s] {
+    font-size: 0.95em;
+}
+
+.title[b-5tx67eng5s] {
+    font-size: 0.8em;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+.valueWithLink[b-5tx67eng5s] {
+    font-size: 0.95em;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Blocks/TableBlocks.cshtml.rz.scp.css */
+.validatorLabel[b-rl6q10rwya] {
+    font-size: 0.75em;
+}
+
+.validator[b-rl6q10rwya] {
+    font-size: 0.9em;
+}
+
+.numTnx[b-rl6q10rwya] {
+    font-size: 0.95em;
+    white-space: nowrap;
+}
+
+.numTxInTable[b-rl6q10rwya] {
+    font-size: 0.85em;
+    white-space: nowrap;
+}
+
+.lblTx[b-rl6q10rwya] {
+    font-size: 0.8em;
+}
+
+
+.dateTx[b-rl6q10rwya] {
+    font-size: 0.7em;
+    white-space: nowrap;
+}
+
+
+.heightBlock[b-rl6q10rwya] {
+    font-size: 0.85em;
+}
+
+.bk[b-rl6q10rwya] {
+    text-align: left;
+    width: 30px;
+    height: 30px;
+}
+
+.amount[b-rl6q10rwya] {
+    padding: 5px;
+    font-size: 0.75em;
+    font-weight: bold;
+    width: 100%;
+    text-align: end;
+    background-color: #eee;
+}
+
+.subTitle[b-rl6q10rwya] {
+    color: #454545;
+}
+
+
+.tableTitle[b-rl6q10rwya] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+    white-space: nowrap;
+}
+
+.divRow[b-rl6q10rwya] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-rl6q10rwya] {
+    font-size: 0.8em;
+}
+
+.addrsInTable[b-rl6q10rwya] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-rl6q10rwya] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.dateInTable[b-rl6q10rwya] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.tableHeader[b-rl6q10rwya] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Home/CardAccount.cshtml.rz.scp.css */
+
+.title[b-bbcdmedvd2] {
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #2471A3;
+}
+
+.infoSmall[b-bbcdmedvd2] {
+    font-size: 0.8em;
+    color: darkblue;
+}
+
+
+.textSufix[b-bbcdmedvd2] {
+    font-size: 0.7em;
+    color: grey;
+}
+
+.titleDis[b-bbcdmedvd2] {
+    font-size: 0.80em;
+    color: grey;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Home/CardBlock.cshtml.rz.scp.css */
+
+.title[b-ho2fvwmfgb] {
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #2471A3;
+}
+
+.infoSmall[b-ho2fvwmfgb] {
+    font-size: 0.8em;
+    color: darkblue;
+}
+
+
+.textSufix[b-ho2fvwmfgb] {
+    font-size: 0.7em;
+    color: grey;
+}
+
+.titleDis[b-ho2fvwmfgb] {
+    font-size: 0.80em;
+    color: grey;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Home/CardTransaction.cshtml.rz.scp.css */
+
+.title[b-m3b56740pi] {
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #2471A3;
+}
+
+.infoSmall[b-m3b56740pi] {
+    font-size: 0.8em;
+    color: darkblue;
+}
+
+
+.textSufix[b-m3b56740pi] {
+    font-size: 0.7em;
+    color: grey;
+}
+
+.titleDis[b-m3b56740pi] {
+    font-size: 0.80em;
+    color: grey;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Home/CardTransactionPool.cshtml.rz.scp.css */
+
+.title[b-j4gstc1xhw] {
+    font-size: 0.85em;
+    font-weight: bold;
+    color: #2471A3;
+}
+
+.infoSmall[b-j4gstc1xhw] {
+    font-size: 0.8em;
+    color: darkblue;
+}
+
+
+.textSufix[b-j4gstc1xhw] {
+    font-size: 0.7em;
+    color: grey;
+}
+
+.titleDis[b-j4gstc1xhw] {
+    font-size: 0.80em;
+    color: grey;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Home/WidgetBlock.cshtml.rz.scp.css */
+.dateTx[b-2784ve3q05] {
+    font-size: 0.70em;
+    white-space: nowrap;
+}
+
+.bk[b-2784ve3q05] {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.amount[b-2784ve3q05] {
+    padding: 5px;
+    font-size: 0.70em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.viewall[b-2784ve3q05] {
+    font-size: 0.8em;
+}
+
+.heightBlock[b-2784ve3q05] {
+    font-size: 0.9em;
+}
+
+.addrsLabel[b-2784ve3q05] {
+    font-size: 0.7em;
+    color: gray;
+}
+
+.numTnx[b-2784ve3q05] {
+    font-size: 0.7em;
+}
+
+.lblTx[b-2784ve3q05] {
+    font-size: 0.7em;
+}
+
+.address[b-2784ve3q05] {
+    font-size: 0.9em;
+}
+
+.subTitle[b-2784ve3q05] {
+    color: #454545;
+}
+
+.divRow[b-2784ve3q05] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Home/WidgetTransaction.cshtml.rz.scp.css */
+.dateTx[b-c5l382ejhw] {
+    font-size: 0.70em;
+    white-space: nowrap;
+}
+
+.tx[b-c5l382ejhw] {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.amount[b-c5l382ejhw] {
+    padding: 5px;
+    font-size: 0.7em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.viewall[b-c5l382ejhw] {
+    font-size: 0.9em;
+}
+
+.hashTx[b-c5l382ejhw] {
+    font-size: 0.85em;
+}
+
+.addrsLabel[b-c5l382ejhw] {
+    font-size: 0.74em;
+    color: black;
+}
+
+.addrs[b-c5l382ejhw] {
+    font-size: 0.95em;
+}
+
+.subTitle[b-c5l382ejhw] {
+    color: #454545;
+}
+
+
+
+.divRow[b-c5l382ejhw] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Home/WidgetTransactionPool.cshtml.rz.scp.css */
+.dateTx[b-dyierxub04] {
+    font-size: 0.70em;
+    white-space: nowrap;
+}
+
+.tx[b-dyierxub04] {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+.amount[b-dyierxub04] {
+    padding: 5px;
+    font-size: 0.7em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.viewall[b-dyierxub04] {
+    font-size: 0.9em;
+}
+
+.hashTx[b-dyierxub04] {
+    font-size: 0.85em;
+}
+
+.addrsLabel[b-dyierxub04] {
+    font-size: 0.74em;
+    color: black;
+}
+
+.addrs[b-dyierxub04] {
+    font-size: 0.95em;
+}
+
+.subTitle[b-dyierxub04] {
+    color: #454545;
+}
+
+
+
+.divRow[b-dyierxub04] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}
+/* _content/RecycleCoinBlockExplorer/Views/PendingTransactions/Index.cshtml.rz.scp.css */
+.bg[b-jw7ac58omg] {
+    background-color: #F4F6F6;
+    padding: 40px;
+    margin-top: 60px;
+}
+/* _content/RecycleCoinBlockExplorer/Views/PendingTransactions/TablePendingTransactions.cshtml.rz.scp.css */
+.dateTx[b-w4awjedj80] {
+    font-size: 0.70em;
+    white-space: nowrap;
+}
+
+.tx[b-w4awjedj80] {
+    text-align: left;
+}
+
+.amount[b-w4awjedj80] {
+    padding: 5px;
+    font-size: 0.75em;
+    min-width: 10%;
+    font-weight: bold;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.tableHeader[b-w4awjedj80] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.hashTx[b-w4awjedj80] {
+    font-size: 0.8em;
+}
+
+.addrsLabel[b-w4awjedj80] {
+    font-size: 0.7em;
+    color: black;
+}
+
+.addrsInTable[b-w4awjedj80] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-w4awjedj80] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.subTitle[b-w4awjedj80] {
+    color: #454545;
+}
+
+.tableTitle[b-w4awjedj80] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.divRow[b-w4awjedj80] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-w4awjedj80] {
+    font-size: 0.8em;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-n804nrnd72] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-n804nrnd72] {
+  color: #0077cc;
+}
+
+.btn-primary[b-n804nrnd72] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-n804nrnd72], .nav-pills .show > .nav-link[b-n804nrnd72] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-n804nrnd72] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-n804nrnd72] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-n804nrnd72] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-n804nrnd72] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-n804nrnd72] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Transactions/Index.cshtml.rz.scp.css */
+.bg[b-6ballp7vg6] {
+    background-color: #F4F6F6;
+    padding: 40px;
+    margin-top: 60px;
+}
+/* _content/RecycleCoinBlockExplorer/Views/Transactions/TableTransactions.cshtml.rz.scp.css */
+.dateTx[b-qn6waxy1aw] {
+    font-size: 0.70em;
+    white-space: nowrap;
+}
+
+.tx[b-qn6waxy1aw] {
+    text-align: left;
+}
+
+.amount[b-qn6waxy1aw] {
+    padding: 5px;
+    font-size: 0.75em;
+    min-width: 10%;
+    font-weight: bold;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.tableHeader[b-qn6waxy1aw] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.hashTx[b-qn6waxy1aw] {
+    font-size: 0.8em;
+}
+
+.addrsLabel[b-qn6waxy1aw] {
+    font-size: 0.7em;
+    color: black;
+}
+
+.addrsInTable[b-qn6waxy1aw] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-qn6waxy1aw] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.subTitle[b-qn6waxy1aw] {
+    color: #454545;
+}
+
+.tableTitle[b-qn6waxy1aw] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.divRow[b-qn6waxy1aw] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-qn6waxy1aw] {
+    font-size: 0.8em;
+}

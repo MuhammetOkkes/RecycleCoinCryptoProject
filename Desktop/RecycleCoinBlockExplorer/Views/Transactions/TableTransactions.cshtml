@@ -1,0 +1,63 @@
+﻿@using RecycleCoin.Grpc;
+@using RecycleCoinBlockExplorer.Utility;
+<div class="card">
+
+	<div class="card-body">
+		<div class="card-title" />
+		@{
+			var islemler = ViewBag.Islemler;
+			var sunucuDurum = ViewBag.SunucuDurum;
+		}
+		@if (sunucuDurum)
+		{
+			@if (islemler != null && islemler.Count > 0)
+			{
+				<div class="row">
+					<div class="col d-flex justify-content-start">
+						<p>Son 25 İşlem Gösteriliyor</p>
+					</div>
+					<div class="col d-flex justify-content-end">
+					</div>
+				</div>
+
+				<div class="table-responsive">
+					<table class="table table-hover">
+						<thead>
+							<tr>
+								<th class="tableHeader">İşlem Karmasi</th>
+								<th class="tableHeader">Blok</th>
+								<th class="tableHeader">Yaş</th>
+								<th class="tableHeader">Kimden</th>
+								<th class="tableHeader">Kime</th>
+								<th class="tableHeader" style="text-align:right">Tutar</th>
+								<th class="tableHeader" style="text-align:right">Ucret</th>
+							</tr>
+						</thead>
+						<tbody>
+							@foreach (Islem islem in islemler)
+							{
+								<tr>
+									<td><a href="#"><span class="hashTx">@islem.Karma.Substring(0, 15)...</span></a></td>
+									<td><a href="#"><span class="hashTx">@islem.Yukseklik</span></a></td>
+									<td><span class="dateTx">@Converter.ToDateTime(@islem.ZamanDamgasi)</span></td>
+									<td class="address"><a href="#"><span class="addrsInTable">@islem.Gonderen.Substring(0, 20)...</span></a></td>
+									<td><a href=#><span class="addrsInTable">@islem.Alici.Substring(0, 20)...</span></a></td>
+									<td><div class="amountInTable">@islem.Tutar.ToString("C6") <span>RC</span></div></td>
+									<td><div class="amountInTable">@islem.Ucret.ToString("C6")<span>RC</span></div></td>
+								</tr>
+							}
+						</tbody>
+					</table>
+				</div>
+			}
+			else
+			{
+				<div class="text-center"><p>Hiçbir İşlem Alınamadı! </p></div>
+			}
+		}
+		else
+		{
+			<div class="text-center"><p>Sunucuya erişilemiyor! </p></div>
+		}
+	</div>
+</div>

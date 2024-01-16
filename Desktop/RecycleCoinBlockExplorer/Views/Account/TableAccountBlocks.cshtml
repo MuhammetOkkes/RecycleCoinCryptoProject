@@ -1,0 +1,62 @@
+﻿@using RecycleCoin.Grpc;
+@using RecycleCoinBlockExplorer.Utility;
+@{
+	List<Blok> bloklar = ViewBag.Bloklar;
+}
+
+<div class="table-responsive">
+	<table class="table table-hover">
+		<thead>
+			<tr>
+				<th class="tableHeader">Blok</th>
+				<th class="tableHeader">Yaş</th>
+				<th class="tableHeader">Dogrulayici</th>
+				<th class="tableHeader">Islemler</th>
+				<th class="tableHeader">Tutar</th>
+				<th class="tableHeader">Odul</th>
+			</tr>
+		</thead>
+		<tbody>
+			@if (Program.SunucuDurum())
+			{
+				@if (bloklar != null && bloklar.Count > 0)
+				{
+					@foreach (Blok blok in bloklar)
+					{
+						<tr>
+							<td>
+								<a href="/blocks/height/${block.Height"><span class="heightBlock">@blok.Yukseklik</span></a>
+							</td>
+							<td>
+								<span class="dateTx">@Converter.ToDateTime(blok.ZamanDamgasi)</span>
+							</td>
+							<td>
+								<a href={`/address/${block.Validator}`}>
+									<span class="addrsInTable">@blok.Dogrulayici?.Substring(0, 20)}...</span>
+								</a>
+							</td>
+							<td>
+								<span class="numTx">@blok.IslemAdedi </span><span class="lblTx">islem</span>
+							</td>
+							<td>
+								<div class="amountInTable">{block.TotalAmount} Ukuci</div>
+							</td>
+							<td>
+								<div class="amountInTable">@blok.ToplamOdul.ToString("C6")</div>
+							</td>
+						</tr>
+					}
+				}
+				else
+				{
+					<div class="text-center"><p>Hiçbir Blok Alınamadı! </p></div>
+				}
+			}
+			else
+			{
+				<div class="text-center"><p>Sunucuyla Bağlantı Kurulamıyor! </p></div>
+			}
+
+		</tbody>
+	</table>
+</div>

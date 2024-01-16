@@ -1,0 +1,56 @@
+﻿.dateTx {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.amount {
+    padding: 5px;
+    font-size: 0.8em;
+    min-width: 10%;
+    text-align: end;
+    background-color: #eee;
+    white-space: nowrap;
+}
+
+.tableHeader {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.hashTx {
+    font-size: 0.8em;
+}
+
+.addrsLabel {
+    font-size: 0.8em;
+}
+
+.addrsInTable {
+    font-size: 0.8em;
+}
+
+.amountInTable {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.subTitle {
+    margin-left: 0.8em;
+}
+
+.tableTitle {
+    margin-bottom: 15px;
+    margin-left: 5px;
+}
+
+.divRow {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall {
+    font-size: 0.8em;
+}

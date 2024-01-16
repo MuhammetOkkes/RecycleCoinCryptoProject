@@ -1,0 +1,148 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RecycleCoinBlockExplorer
+build_property.RootNamespace = RecycleCoinBlockExplorer
+build_property.ProjectDir = C:\Users\kazic\OneDrive\Belgeler\Sinama_IWP_SonHaliYedek\Desktop\RecycleCoinBlockExplorer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kazic\OneDrive\Belgeler\Sinama_IWP_SonHaliYedek\Desktop\RecycleCoinBlockExplorer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Atik/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpa1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Atik/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpa1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Atik/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpa1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Atik/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpa1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Atik/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRpa1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Giris/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Payment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Accounts/TableAccounts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudHNcVGFibGVBY2NvdW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-l7uwx6a989
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Account/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-gssonl1dyh
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Account/TableAccountBlocks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxUYWJsZUFjY291bnRCbG9ja3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y1vho3zckf
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Account/TableAccountPendingTransactions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxUYWJsZUFjY291bnRQZW5kaW5nVHJhbnNhY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-59a1mtwojg
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Account/TableAccountTransactions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxUYWJsZUFjY291bnRUcmFuc2FjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1uhpd7pgdi
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Blocks/Block.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvY2tzXEJsb2NrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-yhaw6yi3ra
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Blocks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvY2tzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-5tx67eng5s
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Blocks/TableBlocks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvY2tzXFRhYmxlQmxvY2tzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-rl6q10rwya
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Home/CardAccount.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJkQWNjb3VudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-bbcdmedvd2
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Home/CardBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJkQmxvY2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ho2fvwmfgb
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Home/CardTransaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJkVHJhbnNhY3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-m3b56740pi
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Home/CardTransactionPool.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJkVHJhbnNhY3Rpb25Qb29sLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-j4gstc1xhw
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Home/WidgetBlock.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaWRnZXRCbG9jay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-2784ve3q05
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Home/WidgetTransaction.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaWRnZXRUcmFuc2FjdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-c5l382ejhw
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Home/WidgetTransactionPool.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXaWRnZXRUcmFuc2FjdGlvblBvb2wuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dyierxub04
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/PendingTransactions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuZGluZ1RyYW5zYWN0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-jw7ac58omg
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/PendingTransactions/TablePendingTransactions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVuZGluZ1RyYW5zYWN0aW9uc1xUYWJsZVBlbmRpbmdUcmFuc2FjdGlvbnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-w4awjedj80
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n804nrnd72
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Transactions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-6ballp7vg6
+
+[C:/Users/kazic/OneDrive/Belgeler/Sinama_IWP_SonHaliYedek/Desktop/RecycleCoinBlockExplorer/Views/Transactions/TableTransactions.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXFRhYmxlVHJhbnNhY3Rpb25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-qn6waxy1aw

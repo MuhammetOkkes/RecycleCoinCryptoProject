@@ -1,0 +1,50 @@
+﻿@using RecycleCoin.Grpc;
+@using RecycleCoinBlockExplorer.Models.Entity;
+@using RecycleCoinBlockExplorer.Utility;
+@{
+	var islemler = ViewBag.Islemler;
+}
+<br />
+<div class="table-responsive">
+	<table class="table table-hover">
+		<thead>
+			<tr>
+				<th class="tableHeader">İşlem Karması</th>
+				<th class="tableHeader">Blok</th>
+				<th class="tableHeader">Yaş</th>
+				<th class="tableHeader">Kimden</th>
+				<th class="tableHeader">Kime</th>
+				<th class="tableHeader">Miktar</th>
+				<th class="tableHeader">Ucret</th>
+			</tr>
+		</thead>
+		<tbody>
+			@if (Program.SunucuDurum())
+			{
+				@if (islemler != null && islemler.Count > 0)
+				{
+					@foreach (Islem islem in islemler)
+					{
+						<tr>
+							<td><a href="#"><span class="hashTx">@islem.Karma.Substring(0, 15)}... </span></a></td>
+							<td><span class="dateTx">@islem.Yukseklik</span></td>
+							<td><span class="dateTx">@Converter.ToDateTime(@islem.ZamanDamgasi)</span></td>
+							<td class="address"><a href="#"><span class="addrsInTable">@islem.Gonderen.Substring(0, 15)...</span></a></td>
+							<td><a href="#"><span class="addrsInTable">@islem.Alici.Substring(0, 15)}...</span></a></td>
+							<td><div class="amountInTable">@islem.Tutar.ToString("C6") RC</div></td>
+							<td><div class="amountInTable">@islem.Ucret RC</div></td>
+						</tr>
+					}
+				}
+				else
+				{
+					<div class="text-center"><p>Hiçbir Hesap Alınamadı! </p></div>
+				}
+			}
+			else
+			{
+				<div class="text-center"><p>Sunucuya erişilemiyor! </p></div>
+			}
+		</tbody>
+	</table>
+</div>

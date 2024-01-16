@@ -1,0 +1,89 @@
+.validatorLabel[b-l7uwx6a989] {
+    font-size: 0.75em;
+}
+
+.validator[b-l7uwx6a989] {
+    font-size: 0.9em;
+}
+
+.numTnx[b-l7uwx6a989] {
+    font-size: 0.95em;
+    white-space: nowrap;
+}
+
+.numTxInTable[b-l7uwx6a989] {
+    font-size: 0.85em;
+    white-space: nowrap;
+}
+
+.lblTx[b-l7uwx6a989] {
+    font-size: 0.8em;
+}
+
+
+.dateTx[b-l7uwx6a989] {
+    font-size: 0.7em;
+    white-space: nowrap;
+}
+
+
+.heightBlock[b-l7uwx6a989] {
+    font-size: 0.85em;
+}
+
+.bk[b-l7uwx6a989] {
+    text-align: left;
+    width: 30px;
+    height: 30px;
+}
+
+.amount[b-l7uwx6a989] {
+    padding: 5px;
+    font-size: 0.75em;
+    font-weight: bold;
+    width: 100%;
+    text-align: end;
+    background-color: #eee;
+}
+
+.subTitle[b-l7uwx6a989] {
+    color: #454545;
+}
+
+
+.tableTitle[b-l7uwx6a989] {
+    margin-bottom: 15px;
+    margin-left: 5px;
+    white-space: nowrap;
+}
+
+.divRow[b-l7uwx6a989] {
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-bottom: 1px solid #dddddd;
+}
+
+.viewall[b-l7uwx6a989] {
+    font-size: 0.8em;
+}
+
+.addrsInTable[b-l7uwx6a989] {
+    font-size: 0.8em;
+}
+
+.amountInTable[b-l7uwx6a989] {
+    padding: 5px;
+    font-size: 0.8em;
+    text-align: end;
+    white-space: nowrap;
+}
+
+.dateInTable[b-l7uwx6a989] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
+
+.tableHeader[b-l7uwx6a989] {
+    font-size: 0.8em;
+    white-space: nowrap;
+}
